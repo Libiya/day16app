@@ -1,0 +1,23 @@
+.Samp {
+    text-align: center;
+    color:cornsilk;
+}
+.table-header{
+    background-color:honeydew;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color:blue
+}
+
+.table-body{
+    background-color: aliceblue;
+    color:green;
+
+}
+
+.button-del{
+    color:blueviolet;
+    border: red solid 2px;
+    background-color: silver;
+}

@@ -1,0 +1,21 @@
+.Table {
+    text-align: center;
+    color:cornsilk;
+    border:red solid 2px;
+}
+.Table-header{
+    background-color:honeydew;
+    border:red solid 2px;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color:blue
+}
+
+.Table-body{
+    background-color: aliceblue;
+    border:red solid 2px;
+    border-collapse: separate;
+    color:green;
+
+}
